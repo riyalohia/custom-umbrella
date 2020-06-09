@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/custom-umbrella/static/css/main.306e9c62.chunk.css",
+    "main.css": "/custom-umbrella/static/css/main.14d5af2c.chunk.css",
     "main.js": "/custom-umbrella/static/js/main.6639a8a0.chunk.js",
     "main.js.map": "/custom-umbrella/static/js/main.6639a8a0.chunk.js.map",
     "runtime-main.js": "/custom-umbrella/static/js/runtime-main.ae5fca20.js",
@@ -8,9 +8,9 @@
     "static/js/2.d13bf1c2.chunk.js": "/custom-umbrella/static/js/2.d13bf1c2.chunk.js",
     "static/js/2.d13bf1c2.chunk.js.map": "/custom-umbrella/static/js/2.d13bf1c2.chunk.js.map",
     "index.html": "/custom-umbrella/index.html",
-    "precache-manifest.1eba73c838de1a06e43627e4b816bf55.js": "/custom-umbrella/precache-manifest.1eba73c838de1a06e43627e4b816bf55.js",
+    "precache-manifest.901b8d3985b47fab0453e1c5bae8418e.js": "/custom-umbrella/precache-manifest.901b8d3985b47fab0453e1c5bae8418e.js",
     "service-worker.js": "/custom-umbrella/service-worker.js",
-    "static/css/main.306e9c62.chunk.css.map": "/custom-umbrella/static/css/main.306e9c62.chunk.css.map",
+    "static/css/main.14d5af2c.chunk.css.map": "/custom-umbrella/static/css/main.14d5af2c.chunk.css.map",
     "static/js/2.d13bf1c2.chunk.js.LICENSE.txt": "/custom-umbrella/static/js/2.d13bf1c2.chunk.js.LICENSE.txt",
     "static/media/BlueUmbrella.png": "/custom-umbrella/static/media/BlueUmbrella.c0d6051c.png",
     "static/media/Loader.svg": "/custom-umbrella/static/media/Loader.73894a0a.svg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.ae5fca20.js",
     "static/js/2.d13bf1c2.chunk.js",
-    "static/css/main.306e9c62.chunk.css",
+    "static/css/main.14d5af2c.chunk.css",
     "static/js/main.6639a8a0.chunk.js"
   ]
 }
