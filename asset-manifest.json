@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/custom-umbrella/static/css/main.306e9c62.chunk.css",
+    "main.js": "/custom-umbrella/static/js/main.6639a8a0.chunk.js",
+    "main.js.map": "/custom-umbrella/static/js/main.6639a8a0.chunk.js.map",
+    "runtime-main.js": "/custom-umbrella/static/js/runtime-main.ae5fca20.js",
+    "runtime-main.js.map": "/custom-umbrella/static/js/runtime-main.ae5fca20.js.map",
+    "static/js/2.d13bf1c2.chunk.js": "/custom-umbrella/static/js/2.d13bf1c2.chunk.js",
+    "static/js/2.d13bf1c2.chunk.js.map": "/custom-umbrella/static/js/2.d13bf1c2.chunk.js.map",
+    "index.html": "/custom-umbrella/index.html",
+    "precache-manifest.1eba73c838de1a06e43627e4b816bf55.js": "/custom-umbrella/precache-manifest.1eba73c838de1a06e43627e4b816bf55.js",
+    "service-worker.js": "/custom-umbrella/service-worker.js",
+    "static/css/main.306e9c62.chunk.css.map": "/custom-umbrella/static/css/main.306e9c62.chunk.css.map",
+    "static/js/2.d13bf1c2.chunk.js.LICENSE.txt": "/custom-umbrella/static/js/2.d13bf1c2.chunk.js.LICENSE.txt",
+    "static/media/BlueUmbrella.png": "/custom-umbrella/static/media/BlueUmbrella.c0d6051c.png",
+    "static/media/Loader.svg": "/custom-umbrella/static/media/Loader.73894a0a.svg",
+    "static/media/PinkUmbrella.png": "/custom-umbrella/static/media/PinkUmbrella.d5e3c45b.png",
+    "static/media/UploadIcon.svg": "/custom-umbrella/static/media/UploadIcon.bd7a6658.svg",
+    "static/media/YellowUmbrella.png": "/custom-umbrella/static/media/YellowUmbrella.ae59431f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae5fca20.js",
+    "static/js/2.d13bf1c2.chunk.js",
+    "static/css/main.306e9c62.chunk.css",
+    "static/js/main.6639a8a0.chunk.js"
+  ]
+}
