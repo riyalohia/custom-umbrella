@@ -28,8 +28,8 @@
 
 .Col--6 {
     flex: 0 0;
-    flex-basis: calc((100% / (var(--grid-columns) / 6)));
-    max-width: calc((100% / (var(--grid-columns) / 6)));
+    flex-basis: calc((100% / 2));
+    max-width: calc((100% / 2));
 }
 
 .Heading {
@@ -119,8 +119,8 @@
     }
     .Col--s-12 {
         flex: 0 0;
-	    flex-basis: calc((100% / (var(--grid-columns) / 12)));
-        max-width: calc((100% / (var(--grid-columns) / 12)));
+	    flex-basis: calc(100% / 1);
+        max-width: calc(100% / 1);
     }
     .Heading {
         font-size: 2.35em;
