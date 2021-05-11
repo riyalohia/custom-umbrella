@@ -1,11 +1,8 @@
 :root {
   /* Colors */
-  --umbrella-blue: green;
-  --umbrella-pink: #DB518B;
-  --umbrella-yellow: #FDD041;
-  --background-blue: #E6F6FC;
-  --backgound-pink: #ffdfec;;
-  --background-yellow: #FFFAED;
+  --background-blue: blue;
+  --backgound-pink: pink;
+  --background-yellow: yellow;
   --border-blue: #7ED0EF;
   --border-yellow: #FFEAB2;
   --border-pink: #fa92be;
