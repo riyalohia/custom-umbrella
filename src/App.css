@@ -1,14 +1,14 @@
 :root {
   /* Colors */
-  --umbrella-blue: #25B0E4;
-  --umbrella-pink: #DB518B;
-  --umbrella-yellow: #FDD041;
-  --background-blue: #E6F6FC;
-  --backgound-pink: #ffdfec;;
-  --background-yellow: #FFFAED;
-  --border-blue: #7ED0EF;
-  --border-yellow: #FFEAB2;
-  --border-pink: #fa92be;
+  --umbrella-blue: blue;
+  --umbrella-pink: pink;
+  --umbrella-yellow: yellow;
+  --background-blue: blue;
+  --backgound-pink: pink;;
+  --background-yellow: yellow;
+  --border-blue: blue;
+  --border-yellow: yellow;
+  --border-pink: pink;
   --text: #2f2f2f;
 	--text-subtle: #868686;
 
