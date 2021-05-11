@@ -2,7 +2,7 @@
   Customize Umbrella
 </h1>
 
-## 🚀 Installation
+## 🚀 Installat
 
 **Clone the repository**
 
@@ -11,6 +11,7 @@ You need to [clone](https://help.github.com/en/github/creating-cloning-and-archi
 **Installing Dependencies**
 
 Open terminal inside your local project's directory and execute the following :
+
 ```
 npm install
 ```
@@ -20,4 +21,5 @@ npm install
 ```
 npm start
 ```
+
 Open your browser and browse the url 'http://localhost:3000/'.
