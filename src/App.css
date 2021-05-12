@@ -1,8 +1,8 @@
 :root {
   /* Colors */
-  --umbrella-blue: green;
-  --umbrella-pink: #DB518B;
-  --umbrella-yellow: #FDD041;
+  --blue: rgb(0, 2, 128);
+  --pink: #DB518B;
+  --yellow: #FDD041;
   --background-blue: #E6F6FC;
   --backgound-pink: #ffdfec;;
   --background-yellow: #FFFAED;
