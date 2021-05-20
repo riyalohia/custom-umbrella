@@ -1,16 +1,16 @@
 :root {
   /* Colors */
   --umbrella-blue: green;
-  --umbrella-pink: #DB518B;
-  --umbrella-yellow: #FDD041;
-  --background-blue: #E6F6FC;
-  --backgound-pink: #ffdfec;;
-  --background-yellow: #FFFAED;
-  --border-blue: #7ED0EF;
-  --border-yellow: #FFEAB2;
+  --umbrella-pink: #db518b;
+  --umbrella-yellow: #fdd041;
+  --background-blue: #e6f6fc;
+  --backgound-pink: #ffdfec;
+  --background-yellow: #fffaed;
+  --border-blue: #7ed0ef;
+  --border-yellow: #ffeab2;
   --border-pink: #fa92be;
   --text: #2f2f2f;
-	--text-subtle: #868686;
+  --text-subtle: #868686;
 
   /* Grid */
   --grid-columns: 12;
@@ -26,6 +26,10 @@
 }
 
 @keyframes loader-spin {
-  from {transform: rotate(0deg);}
-  to {transform: rotate(360deg);}
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
 }
